@@ -13,7 +13,7 @@ Install them with:
 
 ```bash
 pip install opencv-contrib-python imutils numpy
-
+```
 ## How to Run
 Clone the repo and run the script:
 
